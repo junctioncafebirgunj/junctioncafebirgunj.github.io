@@ -89,3 +89,21 @@ footer{
   padding:20px;
   margin-top:40px;
 }
+.reviews{
+  padding:40px 20px;
+  text-align:center;
+}
+
+.review-card{
+  background:#222;
+  color:#fff;
+  margin:15px auto;
+  padding:20px;
+  max-width:600px;
+  border-radius:12px;
+  border:1px solid #d4af37;
+}
+
+.review-card h3{
+  color:#d4af37;
+}
